@@ -1,0 +1,36 @@
+<World>
+  <ShowWholeWorld>false</ShowWholeWorld>
+  <ChunkWidth> 16 </ChunkWidth>
+  <ChunkHeight> 16 </ChunkHeight>
+  <RenderRadiusInChunks> 6 </RenderRadiusInChunks>
+  <WorldObjectFadingEnabled> true </WorldObjectFadingEnabled>
+  <WorldObjectFadingSpeed> 0.5 </WorldObjectFadingSpeed>
+  <WorldObjectFadingOpacity> 0.75 </WorldObjectFadingOpacity>
+  <UpdatePlayerChunkEveryXSeconds> 0.5 </UpdatePlayerChunkEveryXSeconds>
+
+  <Grasslands>
+    <GrassFrequency> 2.0 </GrassFrequency>
+    <GroundNoiseOctaves> 2 </GroundNoiseOctaves>
+    <GroundNoiseFrequency> 0.5 </GroundNoiseFrequency>
+    <GroundNoisePersistence> 9.0 </GroundNoisePersistence>
+    <GroundNoiseLacunarity> 2.0 </GroundNoiseLacunarity>
+
+    <Flowers1SpawnChance> 2.0 </Flowers1SpawnChance>
+    <Flowers2SpawnChance> 1.0 </Flowers2SpawnChance>
+
+    <TreeNoiseOctaves> 2 </TreeNoiseOctaves>
+    <TreeNoiseFrequency> 0.5 </TreeNoiseFrequency>
+    <TreeNoisePersistence> 1.0 </TreeNoisePersistence>
+    <TreeNoiseLacunarity> 2.0 </TreeNoiseLacunarity>
+    <TreeMinSpacing> 2 </TreeMinSpacing>
+
+    <MunshroomFrequency> 0.1 </MunshroomFrequency>
+    <MunshroomNoiseOctaves> 1 </MunshroomNoiseOctaves>
+    <MunshroomsNoiseFrequency> 2.0 </MunshroomsNoiseFrequency>
+    <MunshroomsNoisePersistence> 1.0 </MunshroomsNoisePersistence>
+    <MunshroomsNoiseLacunarity> 2.0 </MunshroomsNoiseLacunarity>
+
+  </Grasslands>
+
+
+</World>

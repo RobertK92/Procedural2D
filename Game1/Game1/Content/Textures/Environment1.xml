@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3bdcae864cb20a638cc388e55e342376:7251faf61aacd04be438096f8b28f866:fb9a7d5edb10f3666549104df45c48c2$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="Environment1.png" width="256" height="256">
+    <sprite n="FlowersYellowMany.png" x="225" y="203" w="29" h="30" pX="0.5" pY="0.5"/>
+    <sprite n="MunschroomSmall1.png" x="225" y="1" w="26" h="38" pX="0.5" pY="0.5"/>
+    <sprite n="RockBig.png" x="167" y="1" w="56" h="54" pX="0.5" pY="0.5"/>
+    <sprite n="RockSmall1.png" x="162" y="81" w="32" h="28" pX="0.5" pY="0.5"/>
+    <sprite n="RockSmall2.png" x="69" y="208" w="26" h="26" pX="0.5" pY="0.5"/>
+    <sprite n="TreeBig.png" x="105" y="1" w="60" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="TreeLog1.png" x="1" y="208" w="32" h="27" pX="0.5" pY="0.5"/>
+    <sprite n="TreeNarrowBase.png" x="35" y="232" w="28" h="18" pX="0.5" pY="0.5" oX="3" oY="0" oW="32" oH="18"/>
+    <sprite n="TreeNarrowTop.png" x="217" y="97" w="32" h="46" pX="0.5" pY="0.5"/>
+    <sprite n="TreeNormalBase.png" x="162" y="67" w="44" h="12" pX="0.5" pY="0.5"/>
+    <sprite n="TreeNormalBase2.png" x="105" y="67" w="55" h="32" pX="0.5" pY="0.5" oX="5" oY="0" oW="60" oH="32"/>
+    <sprite n="TreeNormalBase3.png" x="208" y="57" w="41" h="38" pX="0.5" pY="0.5"/>
+    <sprite n="TreeNormalBase4.png" x="101" y="186" w="40" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="TreeNormalTop.png" x="167" y="173" w="56" h="54" pX="0.5" pY="0.5"/>
+    <sprite n="TreeNormalTop2.png" x="101" y="111" w="64" h="73" pX="0.5" pY="0.5"/>
+    <sprite n="TreeNormalTop3.png" x="1" y="111" w="98" h="95" pX="0.5" pY="0.5"/>
+    <sprite n="TreeNormalTop4.png" x="1" y="1" w="102" h="108" pX="0.5" pY="0.5"/>
+    <sprite n="TreeSmall.png" x="225" y="169" w="28" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="TreeTrunkBig.png" x="217" y="145" w="32" h="22" pX="0.5" pY="0.5"/>
+    <sprite n="TreeTrunkNormal.png" x="143" y="186" w="20" h="22" pX="0.5" pY="0.5"/>
+    <sprite n="WaterWell1.png" x="167" y="111" w="48" h="60" pX="0.5" pY="0.5"/>
+    <sprite n="WeedSmall1.png" x="35" y="208" w="32" h="22" pX="0.5" pY="0.5"/>
+</TextureAtlas>

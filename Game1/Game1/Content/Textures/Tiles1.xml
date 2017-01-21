@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:12fe35c13af9211479503870e4666b97:f83e9c511b4a68d759c2028fef494a20:32954f863b5481a9a086308351b183e9$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="Tiles1.png" width="256" height="256">
+    <sprite n="Dirt1.png" x="1" y="1" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Flowers1.png" x="35" y="1" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Flowers2.png" x="69" y="1" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1.png" x="103" y="1" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1_Variation2.png" x="137" y="1" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1Bottom.png" x="171" y="1" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1BottomLeftCorner.png" x="205" y="1" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1BottomLeftEnclave.png" x="1" y="35" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1BottomRightCorner.png" x="35" y="35" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1BottomRightEnclave.png" x="69" y="35" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1Darker.png" x="103" y="35" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1Left.png" x="137" y="35" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1Right.png" x="171" y="35" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1Top.png" x="205" y="35" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1TopLeftCorner.png" x="1" y="69" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1TopLeftEnclave.png" x="35" y="69" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1TopRightCorner.png" x="69" y="69" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass1TopRightEnclave.png" x="103" y="69" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Grass2.png" x="137" y="69" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Ice1.png" x="171" y="69" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="JungleGrass1.png" x="205" y="69" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Lava1.png" x="1" y="103" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="LavaRock1.png" x="35" y="103" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="LightGrass1.png" x="69" y="103" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="OrangeSand1.png" x="103" y="103" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="River1.png" x="137" y="103" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Sand1.png" x="171" y="103" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="Snow1.png" x="205" y="103" w="32" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="WeedSmall1.png" x="1" y="137" w="32" h="32" pX="0.5" pY="0.5"/>
+</TextureAtlas>

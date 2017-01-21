@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3e61d618645c28114828ad9224292054:2cf49a515a5e7dee5c0099ec94b27802:b2a62e454648239d49df09c8b5de171b$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="BaseHuman.png" width="512" height="46">
+    <sprite n="BaseHuman_IdleDown_0.png" x="1" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_IdleSide_0.png" x="403" y="1" w="20" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_IdleUp_0.png" x="29" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkDown_0.png" x="1" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkDown_1.png" x="57" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkDown_2.png" x="331" y="1" w="22" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkDown_3.png" x="85" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkDown_4.png" x="1" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkDown_5.png" x="113" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkDown_6.png" x="355" y="1" w="22" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkDown_7.png" x="141" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkSide_0.png" x="403" y="1" w="20" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkSide_1.png" x="425" y="1" w="20" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkSide_2.png" x="253" y="1" w="24" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkSide_3.png" x="447" y="1" w="20" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkSide_4.png" x="403" y="1" w="20" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkSide_5.png" x="469" y="1" w="20" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkSide_6.png" x="379" y="1" w="22" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkSide_7.png" x="491" y="1" w="20" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkUp_0.png" x="29" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkUp_1.png" x="169" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkUp_2.png" x="279" y="1" w="24" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkUp_3.png" x="197" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkUp_4.png" x="29" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkUp_5.png" x="225" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkUp_6.png" x="305" y="1" w="24" h="44" pX="0.5" pY="0.5"/>
+    <sprite n="BaseHuman_WalkUp_7.png" x="225" y="1" w="26" h="44" pX="0.5" pY="0.5"/>
+</TextureAtlas>
